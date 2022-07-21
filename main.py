@@ -8,7 +8,7 @@
 #P8: Count and print the number of words that begin with each English letter
 #P9: List unique words by each English letter.
 #P10: Count and print the number of digits.
-
+#All done in step wise
 from collections import Counter
 from string import ascii_letters
 import time
