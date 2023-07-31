@@ -20,3 +20,11 @@
 #P10: Count and print the number of digits.
 
 #All done in step
+
+
+Instructions to Run the Script:
+
+Ensure you have Python installed on your system.
+Place the script and the "The_Bible.txt" file in the same directory.
+Run the script, and it will execute all the defined functionalities, printing the results to the console.
+Please make sure you have the required file ("The_Bible.txt") with suitable content to get accurate results for each operation.
